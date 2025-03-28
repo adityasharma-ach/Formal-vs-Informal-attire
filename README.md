@@ -1,1 +1,1 @@
-# Formal-vs-Informal-attire
+# Formal-vs-Informal-attire-classifier usind OpenAI CLIP
